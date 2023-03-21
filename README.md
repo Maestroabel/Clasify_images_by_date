@@ -4,7 +4,7 @@ This script can help you to classify your WhatsApp Images by date, in this case 
 
 1. Clone the repo or download the script file
 
-> git clone https://github.com/marcellofdz/Clasify_images_by_date.git
+> git clone https://github.com/Maestroabel/Clasify_images_by_date.git
 
 2. Move the script to your Image Directory or drag to your folder
 
